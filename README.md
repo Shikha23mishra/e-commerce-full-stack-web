@@ -1,6 +1,6 @@
-# MEW 
-Men's Ethnic Wear is an ecommerce web application
-### 🚀visit : https://mew.onrender.com
+# MyEcommerceWebsite
+this is my e commerce website which Men's Ethnic Wear 
+
 ## Tools and Packages
  ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
@@ -41,7 +41,7 @@ Men's Ethnic Wear is an ecommerce web application
 ## Run Locally
 Clone the project
 ```bash
-  git clone https://github.com/MohammadOwais10/MEW.git
+  git clone  https://github.com/Shikha23mishra/e-commerce-full-stack-web.git
 ```
 Go to the project directory
 ```bash
